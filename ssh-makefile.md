@@ -14,10 +14,8 @@ If ssh was inactive. Start the ssh service
 
 ## Key-Based Authentication
 
-![image](https://user-images.githubusercontent.com/33444140/235672173-914066d3-6b27-483f-9612-cfe153e7ca3d.png)
+![image](https://user-images.githubusercontent.com/33444140/235738652-2c159682-9991-4c27-9425-f3208d426ffe.png)
 
-### The key will be stored at user directory itself instead of `/.ssh/id_rsa`
+![image](https://user-images.githubusercontent.com/33444140/235738822-003c76ea-c00e-4cbd-86a9-007ecf9c8e60.png)
 
-### So copy the public key from that location to remote location by using `ssh-copy-id` command
-
-![image](https://user-images.githubusercontent.com/33444140/235728779-53a52f6e-62ef-4d23-9707-8d10520c63bf.png)
+![image](https://user-images.githubusercontent.com/33444140/235738924-89da3b58-9631-4bac-90aa-fd727d3e4c4f.png)
